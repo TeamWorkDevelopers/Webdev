@@ -1,0 +1,14 @@
+.setting__save {
+  margin-top: 43px;
+  border: 1px solid #33333a;
+  border-radius: 20px;
+  height: 40px;
+  width: 197px;
+  background: #33333a;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
