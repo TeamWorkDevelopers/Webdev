@@ -54,9 +54,6 @@
         left: 0;
         object-fit: cover;
       }
-        .catalog__content__variant__block {
-          position: relative;
-        }
         .catalog__content__variant__block div {
           position: absolute;
         }

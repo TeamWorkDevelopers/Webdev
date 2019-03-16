@@ -1,9 +1,14 @@
-@import url('./private/cabinet/public/nav.css');
 @import url('./public/reset/reset.css');
 @import url('./public/checkbox style/checkbox_square.css');
+@import url('./public/checkbox style/checkbox_circle.css');
+@import url('./public/footer/footer.css');
+@import url('./public/submit button style/setting__save.css');
+@import url('./public/header/header.css');
+@import url('./private/cabinet/public/nav.css');
 @import url('./private/cabinet/private/settings/settings.css');
 @import url('./private/cabinet/private/favorites/favs.css');
 @import url('./private/cabinet/private/sellproducts/sellproducts.css');
-@import url('./public/header/header.css');
-@import url('./public/footer/footer.css');
-@import url('./public/submit button style/setting__save.css');
+@import url('./private/catalog/private/catalog-advertising.css');
+@import url('./private/catalog/private/catalog-content-body.css');
+@import url('./private/catalog/private/catalog-content-header.css');
+@import url('./private/catalog/public/input_search.css');
